@@ -1,0 +1,15 @@
+{
+  "name": "spoiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "browser": "browser-sync start --server --port 4422 --no-notify  --files \"**/*.*\""
+  },
+  "keywords": [],
+  "author": "Kasap Victor",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
